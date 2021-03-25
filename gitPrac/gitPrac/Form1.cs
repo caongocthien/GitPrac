@@ -19,9 +19,12 @@ namespace gitPrac
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+
+            var frm2 = new Form2();
             if(txtPassword.Text == "admin" && txtUserName.Text == "admin")
             {
                 MessageBox.Show("Dang nhap thanh cong");
+                frm2.Show();
             } else
             {
                 MessageBox.Show("Dang nhap that bai");
