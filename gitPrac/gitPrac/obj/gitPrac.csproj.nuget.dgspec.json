@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj": {}
+    "C:\\Users\\phaml\\Source\\Repos\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj": {}
   },
   "projects": {
-    "C:\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj": {
+    "C:\\Users\\phaml\\Source\\Repos\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj",
+        "projectUniqueName": "C:\\Users\\phaml\\Source\\Repos\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj",
         "projectName": "gitPrac",
-        "projectPath": "C:\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj",
-        "packagesPath": "C:\\Users\\caong\\.nuget\\packages\\",
-        "outputPath": "C:\\GitPrac\\gitPrac\\gitPrac\\obj\\",
+        "projectPath": "C:\\Users\\phaml\\Source\\Repos\\GitPrac\\gitPrac\\gitPrac\\gitPrac.csproj",
+        "packagesPath": "C:\\Users\\phaml\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phaml\\Source\\Repos\\GitPrac\\gitPrac\\gitPrac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\caong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phaml\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
