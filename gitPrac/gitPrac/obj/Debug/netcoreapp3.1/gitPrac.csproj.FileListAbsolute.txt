@@ -1,0 +1,15 @@
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.exe
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.deps.json
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.runtimeconfig.json
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.runtimeconfig.dev.json
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.dll
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\bin\Debug\netcoreapp3.1\gitPrac.pdb
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.csprojAssemblyReference.cache
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.Form1.resources
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.csproj.GenerateResource.cache
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.AssemblyInfoInputs.cache
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.AssemblyInfo.cs
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.csproj.CoreCompileInputs.cache
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.dll
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.pdb
+C:\Users\phaml\Source\Repos\GitPrac\gitPrac\gitPrac\obj\Debug\netcoreapp3.1\gitPrac.genruntimeconfig.cache

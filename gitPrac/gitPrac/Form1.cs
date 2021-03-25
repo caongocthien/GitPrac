@@ -17,5 +17,15 @@ namespace gitPrac
             InitializeComponent();
         }
 
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if(txtPassword.Text == "admin" && txtUserName.Text == "admin")
+            {
+                MessageBox.Show("Dang nhap thanh cong");
+            } else
+            {
+                MessageBox.Show("Dang nhap that bai");
+            }
+        }
     }
 }
